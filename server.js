@@ -14,5 +14,3 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 
-//key_id	key_secret
-//rzp_test_BzmOBgf80vVuZb	GQiOsMz9aCzVAgV6huFjzzpo
